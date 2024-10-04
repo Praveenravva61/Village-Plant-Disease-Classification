@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Village-Plant-Diseases-Classification
+Version: 0.0.1
+Author: Ravva Praveen
+Author-email: praveen.ravva61@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy

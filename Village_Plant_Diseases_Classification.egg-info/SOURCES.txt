@@ -1,0 +1,7 @@
+README.md
+setup.py
+Village_Plant_Diseases_Classification.egg-info/PKG-INFO
+Village_Plant_Diseases_Classification.egg-info/SOURCES.txt
+Village_Plant_Diseases_Classification.egg-info/dependency_links.txt
+Village_Plant_Diseases_Classification.egg-info/requires.txt
+Village_Plant_Diseases_Classification.egg-info/top_level.txt
